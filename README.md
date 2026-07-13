@@ -2,8 +2,8 @@ sample output
 ========================================
       STUDENT RESULT CALCULATOR
 ========================================
-Enter Student Name: prasad /n
-Enter Maths Marks (0-100): 99 /n
+Enter Student Name: prasad 
+Enter Maths Marks (0-100): 99 
 Enter Science Marks (0-100): 98
 Enter English Marks (0-100): 88
 Enter Python Marks (0-100): 97
